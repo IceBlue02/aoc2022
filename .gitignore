@@ -1,0 +1,4 @@
+*.txt
+
+# Haskell
+*.hi
