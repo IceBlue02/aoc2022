@@ -16,3 +16,4 @@ My goal for this year is to complete each day in a different programming languag
 |    4    | ARMv7 Assembly | Assembly can be really fun to write at times (especially when it involves doing compiler optimisations by hand). I don't fancy writing a [theme park simulation game](https://www.reddit.com/r/todayilearned/comments/131q6b/til_roller_coaster_tycoon_was_programmed_by_one/) in it anytime soon however. |
 |    5    | Dart | This was the first time (I think) I've come across any Dart code, and I found it really nice to work with- definitely a language I'm intending to come back to. |
 |    6    | Fortran (90) | And sure enough, once I hope never to return to. This was ugly. |
+|    7    | Bash | Bash was on the list, and today made too much sense not to give it a go, and made the task very different to just doing it in a standard language. *For hopefully obvious reasons, I worked in a docker container.* |
