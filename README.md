@@ -17,3 +17,4 @@ My goal for this year is to complete each day in a different programming languag
 |    5    | Dart | This was the first time (I think) I've come across any Dart code, and I found it really nice to work with- definitely a language I'm intending to come back to. |
 |    6    | Fortran (90) | And sure enough, once I hope never to return to. This was ugly. |
 |    7    | Bash | Bash was on the list, and today made too much sense not to give it a go, and made the task very different to just doing it in a standard language. *For hopefully obvious reasons, I worked in a docker container.* |
+|    8    | R | A perfectly pleasant language to work with, but definitely not my finest code. |
